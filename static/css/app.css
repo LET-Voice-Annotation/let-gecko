@@ -193,6 +193,10 @@ a:hover, a:focus {
     outline: none;
 }
 
+.segment-text__word-wrapper {
+    background-color: #f0f0f0;
+}
+
 .segment-text__word-wrapper--was-edited {
     color: rgb(129, 42, 193);
 }
